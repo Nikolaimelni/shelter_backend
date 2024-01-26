@@ -9,6 +9,10 @@ def create_app():
 
     CORS(app)
 
+    @app.route('/')
+    def index():
+        return "Welcome to the Pet Shelter API!"
+
     from .routes.shelter import shelter_routes
 
     app.register_blueprint(shelter_routes, url_prefix='/shelter')
