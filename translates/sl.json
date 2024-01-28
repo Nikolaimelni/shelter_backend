@@ -1,0 +1,18 @@
+{
+  "home.title": "Najdi najbližje zavetišče za živali",
+  "home.paragraph1": "Ste našli žival, ki potrebuje pomoč? Takoj ukrepajte! Naša spletna stran vam je takojšnji vhod v iskanje najbližjega zavetišča ali veterinarske pomoči za živali. V svetu, kjer je preveč zapuščenih hišnih ljubljenčkov, vam omogočamo odgovorno in sočutno izbiro.",
+  "home.paragraph2": "Ne gre samo za iskanje pomoči; gre za del skupnosti, ki ceni dobrobit živali. Če naletite na žival, ki potrebuje pomoč, se spomnite, da je naša spletna stran vaš prvi korak k pozitivnemu vplivu. Skupaj lahko poskrbimo, da bo vsaka žival prejela ljubezen in nego, ki si ju zasluži.",
+  "navbar.home": "Domov",
+  "navbar.findNearestShelter": "Najdi Najbližje Zavetišče",
+  "navbar.findShelterInYourTown": "Najdi Zavetišče v Tvojem Mestu",
+  "navbar.aboutUs": "O Nas",
+  "citySearch.enterSearchRadius": "Vnesite iskalni radij v kilometrih",
+  "citySearch.enterCity": "Vnesite ime mesta",
+  "citySearch.searchButton": "Iskanje",
+  "citySearch.totalShelters": "Skupno {count} zavetišč {radius} km oddaljeno od mesta {city}",
+  "citySearch.viewOnGoogleMaps": "Poglejte na Google Zemljevidu",
+  "nearbySearch.enterSearchRadius": "Vnesite iskalni radij v kilometrih",
+  "nearbySearch.searchButton": "Najdi Najbližje Zavetišče",
+  "nearbySearch.totalShelters": "Skupno {count} zavetišč v radiju {radius} km od vaše lokacije",
+  "nearbySearch.viewOnGoogleMaps": "Poglejte na Google Zemljevidu"
+}

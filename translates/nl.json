@@ -1,0 +1,19 @@
+{
+  "home.title": "Vind Dierenasielen",
+  "home.paragraph1": "Heb je een dier in nood gevonden? Handel direct! Onze website is jouw directe toegangspoort tot het vinden van het dichtstbijzijnde dierenasiel of dierenartsenhulp voor elk dier dat je tegenkomt.",
+  "home.paragraph2": "In een wereld waar te veel dieren worden achtergelaten, geven we je de mogelijkheid om een verantwoorde en meelevende keuze te maken. Ontdek lokale dierenasielen en reddingsopties voor dieren in nood en bied de hulp die ze dringend nodig hebben.",
+  "navbar.home": "Home",
+  "navbar.findNearestShelter": "Vind Het Dichtstbijzijnde Dierenasiel",
+  "navbar.findShelterInYourTown": "Vind Een Dierenasiel In Jouw Stad",
+  "navbar.aboutUs": "Over Ons",
+  "citySearch.enterSearchRadius": "Voer zoekstraal in kilometers in",
+  "citySearch.enterCity": "Voer de naam van de stad in",
+  "citySearch.searchButton": "Zoeken",
+  "citySearch.totalShelters": "totaal {count} dierenasielen binnen {radius} km van {city}",
+  "citySearch.viewOnGoogleMaps": "Bekijk op Google Maps",
+  "nearbySearch.enterSearchRadius": "Voer zoekstraal in kilometers in",
+  "nearbySearch.findSheltersButton": "Vind Dierenasielen In De Buurt",
+  "nearbySearch.loadingMessage": "Laden...",
+  "nearbySearch.totalShelters": "Totaal {count} dierenasielen binnen {radius} km van jouw locatie",
+  "nearbySearch.viewOnGoogleMaps": "Bekijk op Google Maps"
+}

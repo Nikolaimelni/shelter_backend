@@ -1,0 +1,19 @@
+{
+  "home.title": "Raskite gyvūnų prieglaudas",
+  "home.paragraph1": "Ar radote gyvūną pavojuje? Veikite dabar! Mūsų svetainė yra jūsų greitas pritaikymas rasti artimiausią gyvūnų prieglaudą arba veterinarinę pagalbą bet kokiam gyvūnui, kurį sutikote.",
+  "home.paragraph2": "Pasaulyje, kuriame per daug augintinių yra paliekama, suteikiame jums galimybę padaryti atsakingą ir užuojautą turinčią pasirinkimą. Raskite vietines prieglaudas ir gelbėjimo galimybes gyvūnams pavojuje ir būkite pagalba, kuri jiems skubiai reikalinga.",
+  "navbar.home": "Namai",
+  "navbar.findNearestShelter": "Rasti artimiausią prieglaudą",
+  "navbar.findShelterInYourTown": "Rasti prieglaudą savo mieste",
+  "navbar.aboutUs": "Apie mus",
+  "citySearch.enterSearchRadius": "Įveskite paieškos spindulį kilometrais",
+  "citySearch.enterCity": "Įveskite miesto pavadinimą",
+  "citySearch.searchButton": "Ieškoti",
+  "citySearch.totalShelters": "viso {count} prieglaudos {radius} km spinduliu nuo miesto {city}",
+  "citySearch.viewOnGoogleMaps": "Peržiūrėti Google Žemėlapiuose",
+  "nearbySearch.enterSearchRadius": "Įveskite paieškos spindulį kilometrais",
+  "nearbySearch.findSheltersButton": "Raskite prieglaudas netoli",
+  "nearbySearch.loadingMessage": "Įkeliama...",
+  "nearbySearch.totalShelters": "viso {count} prieglaudos {radius} km spinduliu nuo jūsų vietos",
+  "nearbySearch.viewOnGoogleMaps": "Peržiūrėti Google Žemėlapiuose"
+}

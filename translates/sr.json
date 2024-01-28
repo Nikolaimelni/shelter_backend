@@ -1,0 +1,19 @@
+{
+  "home.title": "Пронађите прихватилишта за животиње",
+  "home.paragraph1": "Да ли сте нашли животињу у потреби? Одмах дејструјте! Наш веб сајт је ваш брзи приступ најближем прихватишту за животиње или ветеринарској помоћи за сваку животињу коју нађете.",
+  "home.paragraph2": "У свету где се превише животиња оставља, омогућавамо вам да направите одговоран и саосећајан избор. Откријте локална прихватишта и опције за спасавање животиња у опасности и будите помоћ коју тржите најбрже.",
+  "navbar.home": "Почетна",
+  "navbar.findNearestShelter": "Пронађи најближе прихватиште",
+  "navbar.findShelterInYourTown": "Пронађи прихватиште у вашем граду",
+  "navbar.aboutUs": "О нама",
+  "citySearch.enterSearchRadius": "Унесите полупречник претраге у километрима",
+  "citySearch.enterCity": "Унесите назив града",
+  "citySearch.searchButton": "Претрага",
+  "citySearch.totalShelters": "укупно {count} прихватишта у радијусу од {radius} километара од града {city}",
+  "citySearch.viewOnGoogleMaps": "Погледајте на Google мапи",
+  "nearbySearch.enterSearchRadius": "Унесите полупречник претраге у километрима",
+  "nearbySearch.findSheltersButton": "Пронађи прихватишта у близини",
+  "nearbySearch.loadingMessage": "Учитавање...",
+  "nearbySearch.totalShelters": "Укупно {count} прихватишта у радијусу од {radius} километара од ваше локације",
+  "nearbySearch.viewOnGoogleMaps": "Погледајте на Google мапи"
+}

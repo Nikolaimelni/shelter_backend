@@ -1,0 +1,20 @@
+{
+  "home.title": "Find Animal Shelters",
+  "home.paragraph1": "Have you found an animal in need? Act now! Our website is your immediate gateway to finding the nearest shelter or veterinary assistance for any animal you encounter.",
+  "home.paragraph2": "In a world where too many pets are abandoned, we empower you to make a responsible and compassionate choice. Discover local shelters and rescue options for animals in distress, and be the help they urgently need.",
+  "navbar.home": "Home",
+  "navbar.findNearestShelter": "Find Nearest Shelter",
+  "navbar.findShelterInYourTown": "Find Shelter in Your Town",
+  "navbar.aboutUs": "About Us",
+  "citySearch.enterSearchRadius": "Enter search radius in kilometers",
+  "citySearch.enterCity": "Enter city name",
+  "citySearch.searchButton": "Search",
+  "citySearch.totalShelters": "total {count} shelters in {radius} km from {city}",
+  "citySearch.viewOnGoogleMaps": "View on Google Maps",
+  "nearbySearch.enterSearchRadius": "Enter search radius in kilometers",
+  "nearbySearch.findSheltersButton": "Find Shelters Nearby",
+  "nearbySearch.loadingMessage": "Loading...",
+  "nearbySearch.totalShelters": "Total {count} shelters within {radius} km from your location",
+  "nearbySearch.viewOnGoogleMaps": "View on Google Maps"
+}
+  

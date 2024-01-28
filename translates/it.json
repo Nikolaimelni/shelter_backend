@@ -1,0 +1,19 @@
+{
+  "home.title": "Trova Rifugi per Animali",
+  "home.paragraph1": "Hai trovato un animale bisognoso? Agisci subito! Il nostro sito web è la tua porta immediata per trovare il rifugio più vicino o assistenza veterinaria per qualsiasi animale tu incontri.",
+  "home.paragraph2": "In un mondo in cui troppi animali vengono abbandonati, ti permettiamo di fare una scelta responsabile e compassionevole. Scopri i rifugi locali e le opzioni di soccorso per gli animali in difficoltà e sii l'aiuto di cui hanno urgentemente bisogno.",
+  "navbar.home": "Pagina Principale",
+  "navbar.findNearestShelter": "Trova Rifugio Più Vicino",
+  "navbar.findShelterInYourTown": "Trova Rifugio nella Tua Città",
+  "navbar.aboutUs": "Chi Siamo",
+  "citySearch.enterSearchRadius": "Inserisci il raggio di ricerca in chilometri",
+  "citySearch.enterCity": "Inserisci il nome della città",
+  "citySearch.searchButton": "Cerca",
+  "citySearch.totalShelters": "totale {count} rifugi in {radius} km da {city}",
+  "citySearch.viewOnGoogleMaps": "Visualizza su Google Maps",
+  "nearbySearch.enterSearchRadius": "Inserisci il raggio di ricerca in chilometri",
+  "nearbySearch.findSheltersButton": "Trova Rifugi Nelle Vicinanze",
+  "nearbySearch.loadingMessage": "Caricamento...",
+  "nearbySearch.totalShelters": "Totale {count} rifugi entro {radius} km dalla tua posizione",
+  "nearbySearch.viewOnGoogleMaps": "Visualizza su Google Maps"
+}

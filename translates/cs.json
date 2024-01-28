@@ -1,0 +1,19 @@
+{
+  "home.title": "Najděte Útulky pro Zvířata",
+  "home.paragraph1": "Nalezli jste zvíře, které potřebuje pomoc? Jednejte hned! Naše webové stránky jsou vaší okamžitou branou k nalezení nejbližšího útulku nebo veterinární pomoci pro jakéhokoli zvířete, které potkáte.",
+  "home.paragraph2": "V světě, kde je příliš mnoho zvířat opuštěno, vám dáváme možnost učinit zodpovědné a soucitné rozhodnutí. Objevte místní útulky a možnosti záchrany pro zvířata v nouzi a buďte pomocí, kterou naléhavě potřebují.",
+  "navbar.home": "Domů",
+  "navbar.findNearestShelter": "Najděte Nejbližší Útulek",
+  "navbar.findShelterInYourTown": "Najděte Útulek ve Vašem Městě",
+  "navbar.aboutUs": "O Nás",
+  "citySearch.enterSearchRadius": "Zadejte poloměr hledání v kilometrech",
+  "citySearch.enterCity": "Zadejte název města",
+  "citySearch.searchButton": "Hledat",
+  "citySearch.totalShelters": "celkem {count} útulků v poloměru {radius} km od {city}",
+  "citySearch.viewOnGoogleMaps": "Zobrazit na Google Mapách",
+  "nearbySearch.enterSearchRadius": "Zadejte poloměr hledání v kilometrech",
+  "nearbySearch.findSheltersButton": "Najít Útulky v Blízkosti",
+  "nearbySearch.loadingMessage": "Načítání...",
+  "nearbySearch.totalShelters": "Celkem {count} útulků v poloměru {radius} km od vaší polohy",
+  "nearbySearch.viewOnGoogleMaps": "Zobrazit na Google Mapách"
+}

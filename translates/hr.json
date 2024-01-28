@@ -1,0 +1,19 @@
+{
+  "home.title": "Pronađite skloništa za životinje",
+  "home.paragraph1": "Jeste li pronašli životinju u nevolji? Odmah djelujte! Naša web stranica vaš je brzi pristup najbližem skloništu za životinje ili veterinarskoj pomoći za svaku životinju koju pronađete.",
+  "home.paragraph2": "U svijetu gdje je previše napuštenih kućnih ljubimaca, mi vam omogućujemo da donesete odgovornu i saosećajnu odluku. Otkrijte lokalna skloništa i opcije spašavanja životinja u nevolji i budite pomoć koja im hitno treba.",
+  "navbar.home": "Početna",
+  "navbar.findNearestShelter": "Pronađite najbliže sklonište",
+  "navbar.findShelterInYourTown": "Pronađite sklonište u svom gradu",
+  "navbar.aboutUs": "O nama",
+  "citySearch.enterSearchRadius": "Unesite radijus pretrage u kilometrima",
+  "citySearch.enterCity": "Unesite naziv grada",
+  "citySearch.searchButton": "Pretraga",
+  "citySearch.totalShelters": "ukupno {count} skloništa u radijusu od {radius} kilometara od grada {city}",
+  "citySearch.viewOnGoogleMaps": "Pogledajte na Google karti",
+  "nearbySearch.enterSearchRadius": "Unesite radijus pretrage u kilometrima",
+  "nearbySearch.findSheltersButton": "Pronađite skloništa u blizini",
+  "nearbySearch.loadingMessage": "Učitavanje...",
+  "nearbySearch.totalShelters": "Ukupno {count} skloništa u radijusu od {radius} kilometara od vaše lokacije",
+  "nearbySearch.viewOnGoogleMaps": "Pogledajte na Google karti"
+}

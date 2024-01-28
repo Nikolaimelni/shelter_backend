@@ -1,0 +1,19 @@
+{
+  "home.title": "Найти Приюты для Животных",
+  "home.paragraph1": "Наш веб-сайт - ваш немедленный доступ к поиску ближайшего приюта или ветеринарной помощи для любого животного, которое вы встретите и которому нужна помощь.",
+  "home.paragraph2": "В мире, где слишком много животных брошены на произвол судьбы, мы даем вам возможность сделать ответственный и сострадательный выбор. Находите местные приюты и варианты спасения для животных в беде и станьте им настоящей помощью.",
+  "navbar.home": "Главная",
+  "navbar.findNearestShelter": "Найти Ближайший Приют",
+  "navbar.findShelterInYourTown": "Найти Приют в Вашем Городе",
+  "navbar.aboutUs": "О Нас",
+  "citySearch.enterSearchRadius": "Введите радиус поиска в километрах",
+  "citySearch.enterCity": "Введите название города",
+  "citySearch.searchButton": "Поиск",
+  "citySearch.totalShelters": "всего {count} приютов в радиусе {radius} км от {city}",
+  "citySearch.viewOnGoogleMaps": "Посмотреть на Google Картах",
+  "nearbySearch.enterSearchRadius": "Введите радиус поиска в километрах",
+  "nearbySearch.findSheltersButton": "Найти Приюты Поблизости",
+  "nearbySearch.loadingMessage": "Загрузка...",
+  "nearbySearch.totalShelters": "Всего {count} приютов в радиусе {radius} км от вашего местоположения",
+  "nearbySearch.viewOnGoogleMaps": "Посмотреть на Google Картах"
+}

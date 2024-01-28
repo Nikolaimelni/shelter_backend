@@ -1,0 +1,18 @@
+{
+  "home.title": "Az első név szerinti menedéktervezés",
+  "home.paragraph1": "Tedd meg az első lépést! Weboldalunk azonnali hozzáférést biztosít a legközelebbi menhelyhez vagy állatorvosi segítséghez, amikor állatot találsz. Egy olyan világban, ahol túl sok háziállatot hagynak magukra, mi lehetőséget kínálunk, hogy felelősségteljes és emberséges választ hozz. Fedezd fel a helyi menhelyeket és mentési lehetőségeket a bajban lévő állatok számára, és segítségüket nyújtsd, amire sürgősen szükségük van.",
+  "home.paragraph2": "Legyen szó elveszett kutyáról, kóbor macskáról vagy bármelyik gondozást igénylő háziállatról, weboldalunk mindezeket lefedi. Felhasználóbarát navigációval gyors hozzáférést biztosítunk az életet mentő szolgáltatásokhoz. Nemcsak a segítség megtalálásáról van szó; egy közösség részének lenni, amely értékeli az állatjólétet. Ha találkozol egy segítségre szoruló állattal, ne feledd, hogy weboldalunk az első lépés az pozitív hatás eléréséhez. Együtt gondoskodhatunk arról, hogy minden állat megkapja azt a szeretetet és gondoskodást, amit megérdemel.",
+  "navbar.home": "Kezdőlap",
+  "navbar.findNearestShelter": "Keresd meg a Legközelebbi Menhelyet",
+  "navbar.findShelterInYourTown": "Keresd Meg a Menhelyet a Városodban",
+  "navbar.aboutUs": "Rólunk",
+  "citySearch.enterSearchRadius": "Adja meg a keresési sugár méretét kilométerben",
+  "citySearch.enterCity": "Adja meg a város nevét",
+  "citySearch.searchButton": "Keresés",
+  "citySearch.totalShelters": "Összesen {count} menhely a {radius} km-es körzetben, innen: {city}",
+  "citySearch.viewOnGoogleMaps": "Megtekintés a Google Térképen",
+  "nearbySearch.enterSearchRadius": "Adja meg a keresési sugár méretét kilométerben",
+  "nearbySearch.searchButton": "Keresd Meg a Legközelebbi Menhelyet",
+  "nearbySearch.totalShelters": "Összesen {count} menhely a {radius} km-es körzetben, a jelenlegi helyzetedtől számítva",
+  "nearbySearch.viewOnGoogleMaps": "Megtekintés a Google Térképen"
+}

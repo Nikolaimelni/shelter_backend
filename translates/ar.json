@@ -1,0 +1,19 @@
+{
+  "home.title": "العثور على مأوى للحيوانات",
+  "home.paragraph1": "هل وجدت حيوانًا في حالة حاجة؟ اتخذ الإجراء الفوري! موقعنا عبارة عن بوابة فورية للعثور على أقرب مأوى للحيوانات أو المساعدة البيطرية لأي حيوان تجده.",
+  "home.paragraph2": "في عالم يتم التخلي فيه عن العديد من الحيوانات، نمنحك القدرة على اتخاذ قرار مسؤول ومعطاء. اكتشف المأوى المحلية وخيارات الإنقاذ للحيوانات في حالة خطر وكن المساعدة التي يحتاجونها بشكل عاجل.",
+  "navbar.home": "الصفحة الرئيسية",
+  "navbar.findNearestShelter": "البحث عن أقرب مأوى",
+  "navbar.findShelterInYourTown": "البحث عن مأوى في مدينتك",
+  "navbar.aboutUs": "معلومات عنا",
+  "citySearch.enterSearchRadius": "أدخل نصف القطر للبحث بالكيلومترات",
+  "citySearch.enterCity": "أدخل اسم المدينة",
+  "citySearch.searchButton": "بحث",
+  "citySearch.totalShelters": "مجموع {count} مأوى في نطاق {radius} كيلومتر من مدينة {city}",
+  "citySearch.viewOnGoogleMaps": "عرض على خرائط Google",
+  "nearbySearch.enterSearchRadius": "أدخل نصف القطر للبحث بالكيلومترات",
+  "nearbySearch.findSheltersButton": "البحث عن مأوى قريب",
+  "nearbySearch.loadingMessage": "جاري التحميل...",
+  "nearbySearch.totalShelters": "مجموع {count} مأوى على بعد {radius} كيلومتر من موقعك",
+  "nearbySearch.viewOnGoogleMaps": "عرض على خرائط Google"
+}

@@ -1,0 +1,19 @@
+{
+  "home.title": "Finn dyretilfluktssteder",
+  "home.paragraph1": "Har du funnet et dyr i nød? Handle nå! Nettstedet vårt er porten din til å finne nærmeste dyretilfluktssted eller veterinærhjelp for ethvert dyr du kommer over.",
+  "home.paragraph2": "I en verden der for mange kjæledyr blir forlatt, gir vi deg muligheten til å ta et ansvarlig og medfølende valg. Oppdag lokale tilfluktssteder og redningsmuligheter for dyr i nød, og vær hjelpen de så desperat trenger.",
+  "navbar.home": "Hjem",
+  "navbar.findNearestShelter": "Finn nærmeste tilfluktssted",
+  "navbar.findShelterInYourTown": "Finn tilfluktssted i din by",
+  "navbar.aboutUs": "Om oss",
+  "citySearch.enterSearchRadius": "Skriv inn søkeradius i kilometer",
+  "citySearch.enterCity": "Skriv inn bynavn",
+  "citySearch.searchButton": "Søk",
+  "citySearch.totalShelters": "totalt {count} tilfluktssteder innenfor {radius} kilometer fra {city}",
+  "citySearch.viewOnGoogleMaps": "Vis på Google Maps",
+  "nearbySearch.enterSearchRadius": "Skriv inn søkeradius i kilometer",
+  "nearbySearch.findSheltersButton": "Finn tilfluktssteder i nærheten",
+  "nearbySearch.loadingMessage": "Laster inn...",
+  "nearbySearch.totalShelters": "Totalt {count} tilfluktssteder innenfor {radius} kilometer fra din posisjon",
+  "nearbySearch.viewOnGoogleMaps": "Vis på Google Maps"
+}

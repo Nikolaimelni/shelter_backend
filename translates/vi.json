@@ -1,0 +1,18 @@
+{
+  "home.title": "Tìm Nơi Cứu Trợ Động Vật",
+  "home.paragraph1": "Bạn đã tìm thấy một con vật cần sự giúp đỡ chưa? Hãy hành động ngay bây giờ! Trang web của chúng tôi là cánh cửa trực tiếp của bạn để tìm nơi cứu trợ gần nhất hoặc sự giúp đỡ thú y cho bất kỳ con vật nào bạn gặp phải. Trong một thế giới mà quá nhiều thú cưng bị bỏ rơi, chúng tôi giúp bạn đưa ra một lựa chọn trách nhiệm và tràn đầy lòng từ bi. Hãy khám phá các nơi cứu trợ địa phương và các tùy chọn cứu trợ cho các con vật gặp khó khăn, và",
+  "home.paragraph2": "trở thành một phần của cộng đồng quan tâm đến việc chăm sóc động vật. Nếu bạn gặp phải một con vật cần sự giúp đỡ, hãy nhớ rằng trang web của chúng tôi là bước đầu tiên để tham gia vào tác động tích cực. Cùng nhau, chúng ta có thể đảm bảo mỗi con vật nhận được tình yêu và chăm sóc mà họ xứng đáng.",
+  "navbar.home": "Trang Chủ",
+  "navbar.findNearestShelter": "Tìm Nơi Cứu Trợ Gần Nhất",
+  "navbar.findShelterInYourTown": "Tìm Nơi Cứu Trợ Tại Thành Phố Của Bạn",
+  "navbar.aboutUs": "Về Chúng Tôi",
+  "citySearch.enterSearchRadius": "Nhập bán kính tìm kiếm trong kilômét",
+  "citySearch.enterCity": "Nhập tên thành phố",
+  "citySearch.searchButton": "Tìm Kiếm",
+  "citySearch.totalShelters": "Tổng cộng {count} nơi cứu trợ {radius} km từ thành phố {city}",
+  "citySearch.viewOnGoogleMaps": "Xem trên Google Maps",
+  "nearbySearch.enterSearchRadius": "Nhập bán kính tìm kiếm trong kilômét",
+  "nearbySearch.searchButton": "Tìm Nơi Cứu Trợ Gần Đây",
+  "nearbySearch.totalShelters": "Tổng cộng {count} nơi cứu trợ trong bán kính {radius} km từ vị trí của bạn",
+  "nearbySearch.viewOnGoogleMaps": "Xem trên Google Maps"
+}

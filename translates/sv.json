@@ -1,0 +1,19 @@
+{
+  "home.title": "Hitta Djurhem",
+  "home.paragraph1": "Har du hittat ett djur i nöd? Handla direkt! Vår webbplats är din omedelbara ingång till att hitta närmaste djurhem eller veterinärhjälp för alla djur du stöter på.",
+  "home.paragraph2": "I en värld där alltför många djur överges ger vi dig möjligheten att ta ett ansvarsfullt och medkännande beslut. Upptäck lokala djurhem och räddningsalternativ för djur i nöd och var den hjälp de så akut behöver.",
+  "navbar.home": "Hem",
+  "navbar.findNearestShelter": "Hitta Närmaste Djurhem",
+  "navbar.findShelterInYourTown": "Hitta Djurhem i Din Stad",
+  "navbar.aboutUs": "Om Oss",
+  "citySearch.enterSearchRadius": "Ange sökstråle i kilometer",
+  "citySearch.enterCity": "Ange stadens namn",
+  "citySearch.searchButton": "Sök",
+  "citySearch.totalShelters": "totalt {count} djurhem inom {radius} km från {city}",
+  "citySearch.viewOnGoogleMaps": "Visa på Google Maps",
+  "nearbySearch.enterSearchRadius": "Ange sökstråle i kilometer",
+  "nearbySearch.findSheltersButton": "Hitta Djurhem i Närområdet",
+  "nearbySearch.loadingMessage": "Laddar...",
+  "nearbySearch.totalShelters": "Totalt {count} djurhem inom {radius} km från din plats",
+  "nearbySearch.viewOnGoogleMaps": "Visa på Google Maps"
+}

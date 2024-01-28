@@ -1,0 +1,19 @@
+{
+  "home.title": "動物シェルターを探す",
+  "home.paragraph1": "困っている動物を見つけましたか？ すぐに行動してください！ 当社のウェブサイトは、見つけた動物の最寄りのシェルターや獣医のサポートへの直接のゲートウェイです。",
+  "home.paragraph2": "多くのペットが捨てられている世界で、責任ある思いやりのある選択をする力を提供します。 危険にさらされている動物のための地元のシェルターとレスキューオプションを見つけ、彼らが急いで必要としている助けになりましょう。",
+  "navbar.home": "ホーム",
+  "navbar.findNearestShelter": "最寄りのシェルターを探す",
+  "navbar.findShelterInYourTown": "あなたの町のシェルターを探す",
+  "navbar.aboutUs": "私たちについて",
+  "citySearch.enterSearchRadius": "キロメートル単位で検索半径を入力",
+  "citySearch.enterCity": "都市名を入力",
+  "citySearch.searchButton": "検索",
+  "citySearch.totalShelters": "{city} から半径 {radius} キロメートル以内に合計 {count} 件のシェルター",
+  "citySearch.viewOnGoogleMaps": "Google マップで表示",
+  "nearbySearch.enterSearchRadius": "キロメートル単位で検索半径を入力",
+  "nearbySearch.findSheltersButton": "近くのシェルターを検索",
+  "nearbySearch.loadingMessage": "読み込んでいます...",
+  "nearbySearch.totalShelters": "あなたの位置から半径 {radius} キロメートル以内に合計 {count} 件のシェルター",
+  "nearbySearch.viewOnGoogleMaps": "Google マップで表示"
+}

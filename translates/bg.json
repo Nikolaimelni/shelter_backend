@@ -1,0 +1,19 @@
+{
+  "home.title": "Намерете приюта за животни",
+  "home.paragraph1": "Намерихте ли животно в беда? Действайте веднага! Нашата уеб страница е вашата незабавна врата към намиране на най-близки приют за животни или ветеринарна помощ за всеки животински случай, който откриете.",
+  "home.paragraph2": "В свят, в който твърде много домашни любимци се напускат, ви предоставяме възможността да направите отговорно и състрадателно решение. Открийте местни приютници и опции за спасяване на животни в беда и бъдете помощта, която те спешно нуждаят.",
+  "navbar.home": "Начало",
+  "navbar.findNearestShelter": "Намерете най-близък приют",
+  "navbar.findShelterInYourTown": "Намерете приют във вашия град",
+  "navbar.aboutUs": "За нас",
+  "citySearch.enterSearchRadius": "Въведете радиуса за търсене в километри",
+  "citySearch.enterCity": "Въведете името на града",
+  "citySearch.searchButton": "Търсене",
+  "citySearch.totalShelters": "Общо {count} приюта в радиус от {radius} километра от град {city}",
+  "citySearch.viewOnGoogleMaps": "Преглед на Google Maps",
+  "nearbySearch.enterSearchRadius": "Въведете радиуса за търсене в километри",
+  "nearbySearch.findSheltersButton": "Намерете приюта в близост",
+  "nearbySearch.loadingMessage": "Зареждане...",
+  "nearbySearch.totalShelters": "Общо {count} приюта в радиус от {radius} километра от вашето местоположение",
+  "nearbySearch.viewOnGoogleMaps": "Преглед на Google Maps"
+}

@@ -1,0 +1,19 @@
+{
+  "home.title": "Знайдіть Притулки для Тварин",
+  "home.paragraph1": "Знайшли тварину, якій потрібна допомога? Дійте зараз! Наш веб-сайт - це ваша безпосередня ворота до знаходження найближчого притулку або ветеринарної допомоги для будь-якої тварини, яку ви зустрінете.",
+  "home.paragraph2": "У світі, де забагато тварин залишають без допомоги, ми даємо вам можливість прийняти відповідальне і співчутливе рішення. Дізнайтеся про місцеві притулки та варіанти рятування для тварин у біді і будьте тією допомогою, яку вони важко потребують.",
+  "navbar.home": "Головна",
+  "navbar.findNearestShelter": "Знайти Найближчий Притулок",
+  "navbar.findShelterInYourTown": "Знайти Притулок у Вашому Місті",
+  "navbar.aboutUs": "Про Нас",
+  "citySearch.enterSearchRadius": "Введіть радіус пошуку в кілометрах",
+  "citySearch.enterCity": "Введіть назву міста",
+  "citySearch.searchButton": "Пошук",
+  "citySearch.totalShelters": "всього {count} притулків у радіусі {radius} км від {city}",
+  "citySearch.viewOnGoogleMaps": "Переглянути на Google Мапах",
+  "nearbySearch.enterSearchRadius": "Введіть радіус пошуку в кілометрах",
+  "nearbySearch.findSheltersButton": "Знайти Притулки Поблизу",
+  "nearbySearch.loadingMessage": "Завантаження...",
+  "nearbySearch.totalShelters": "Всього {count} притулків у радіусі {radius} км від вашого місцезнаходження",
+  "nearbySearch.viewOnGoogleMaps": "Переглянути на Google Мапах"
+}

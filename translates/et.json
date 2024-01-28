@@ -1,0 +1,19 @@
+{
+  "home.title": "Leidke loomade varjupaiku",
+  "home.paragraph1": "Kas leidsite ohustatud looma? Toimige kohe! Meie veebisait on teie otseportaal lähima loomade varjupaiga või veterinaarabi leidmiseks igale loomale, kellega kokku puutute.",
+  "home.paragraph2": "Maailmas, kus liiga paljud lemmikloomad jäävad hülgatuks, võimaldame teil teha vastutustundliku ja kaastundliku valiku. Avastage kohalikud varjupaigad ja päästmisvõimalused ohustatud loomadele ning olge kiire abi, mida nad hädasti vajavad.",
+  "navbar.home": "Kodu",
+  "navbar.findNearestShelter": "Leidke lähim varjupaik",
+  "navbar.findShelterInYourTown": "Leidke varjupaik oma linnas",
+  "navbar.aboutUs": "Meist",
+  "citySearch.enterSearchRadius": "Sisestage otsinguraadius kilomeetrites",
+  "citySearch.enterCity": "Sisestage linna nimi",
+  "citySearch.searchButton": "Otsing",
+  "citySearch.totalShelters": "kokku {count} varjupaika {radius} km raadiuses linnast {city}",
+  "citySearch.viewOnGoogleMaps": "Kuva Google Mapsis",
+  "nearbySearch.enterSearchRadius": "Sisestage otsinguraadius kilomeetrites",
+  "nearbySearch.findSheltersButton": "Leidke varjupaigad lähedal",
+  "nearbySearch.loadingMessage": "Laadimine...",
+  "nearbySearch.totalShelters": "kokku {count} varjupaika {radius} km raadiuses teie asukohast",
+  "nearbySearch.viewOnGoogleMaps": "Kuva Google Mapsis"
+}

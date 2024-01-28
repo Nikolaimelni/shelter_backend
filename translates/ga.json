@@ -1,0 +1,19 @@
+{
+  "home.title": "Aimsigh Sóidéirí do Ainmhithe",
+  "home.paragraph1": "An bhfuair tú ainmhí i gcontúirt? Gníomhaigh anois! Is é ár suíomh gréasáin an bealach is giorra chun suíomh tarrthála nó cuidiú véitéinéir a aimsiú do gach ainmhí a bhfaighidh tú.",
+  "home.paragraph2": "I saol inar tréigeadh roinnt mhaith peataí, cuirimid in ann go roghnach cuidiú sóisialta agus cóir a dhéanamh. Aimsigh suíomhanna tarrthála áitiúla agus roghanna slánaithe do ainmhithe i ngéibheann agus bí an chabhair a bhfuil géarghá leo láithreach.",
+  "navbar.home": "Baile",
+  "navbar.findNearestShelter": "Aimsigh an tSuíomh Tarrthála is gaire",
+  "navbar.findShelterInYourTown": "Aimsigh Suíomh Tarrthála in do Bhaile",
+  "navbar.aboutUs": "Maidir Linn",
+  "citySearch.enterSearchRadius": "Cuir radharc cuardaigh isteach i n-kiliméadar",
+  "citySearch.enterCity": "Cuir ainm na cathrach isteach",
+  "citySearch.searchButton": "Cuardaigh",
+  "citySearch.totalShelters": "Iomlán {count} tarrthála i {radius} km ó bhaile {city}",
+  "citySearch.viewOnGoogleMaps": "Féach ar Google Maps",
+  "nearbySearch.enterSearchRadius": "Cuir radharc cuardaigh isteach i n-kiliméadar",
+  "nearbySearch.findSheltersButton": "Aimsigh Tarrthála in Áit Duit féin",
+  "nearbySearch.loadingMessage": "Ag Lódáil...",
+  "nearbySearch.totalShelters": "Iomlán {count} tarrthála laistigh de {radius} km ó do chuid loingseoireachta",
+  "nearbySearch.viewOnGoogleMaps": "Féach ar Google Maps"
+}

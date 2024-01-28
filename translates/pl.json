@@ -1,0 +1,19 @@
+{
+  "home.title": "Znajdź Schroniska dla Zwierząt",
+  "home.paragraph1": "Znalazłeś zwierzę w potrzebie? Działaj teraz! Nasza strona internetowa to natychmiastowe źródło informacji o najbliższym schronisku lub pomocy weterynaryjnej dla dowolnego zwierzęcia, które znajdziesz.",
+  "home.paragraph2": "W świecie, w którym zbyt wiele zwierząt jest porzucanych, dajemy ci możliwość podjęcia odpowiedzialnej i pełnej współczucia decyzji. Odkrywaj lokalne schroniska i opcje ratowania zwierząt w potrzebie i bądź pomocą, którą pilnie potrzebują.",
+  "navbar.home": "Strona Główna",
+  "navbar.findNearestShelter": "Znajdź Najbliższe Schronisko",
+  "navbar.findShelterInYourTown": "Znajdź Schronisko w Twoim Mieście",
+  "navbar.aboutUs": "O Nas",
+  "citySearch.enterSearchRadius": "Wprowadź promień wyszukiwania w kilometrach",
+  "citySearch.enterCity": "Wprowadź nazwę miasta",
+  "citySearch.searchButton": "Szukaj",
+  "citySearch.totalShelters": "łącznie {count} schronisk w promieniu {radius} km od {city}",
+  "citySearch.viewOnGoogleMaps": "Zobacz na Google Maps",
+  "nearbySearch.enterSearchRadius": "Wprowadź promień wyszukiwania w kilometrach",
+  "nearbySearch.findSheltersButton": "Znajdź Schroniska W Okolicy",
+  "nearbySearch.loadingMessage": "Ładowanie...",
+  "nearbySearch.totalShelters": "Łącznie {count} schronisk w promieniu {radius} km od Twojej lokalizacji",
+  "nearbySearch.viewOnGoogleMaps": "Zobacz na Google Maps"
+}

@@ -1,0 +1,19 @@
+{
+  "home.title": "Encontre Abrigos de Animais",
+  "home.paragraph1": "Encontrou um animal em situação de necessidade? Aja já! Nosso site é o seu acesso imediato para encontrar o abrigo de animais mais próximo ou assistência veterinária para qualquer animal que encontrar.",
+  "home.paragraph2": "Num mundo onde demasiados animais são abandonados, capacitamos você a fazer uma escolha responsável e compassiva. Descubra abrigos locais e opções de resgate para animais em perigo e seja a ajuda que eles precisam urgentemente.",
+  "navbar.home": "Página Inicial",
+  "navbar.findNearestShelter": "Encontrar Abrigo Mais Próximo",
+  "navbar.findShelterInYourTown": "Encontrar Abrigo na Sua Cidade",
+  "navbar.aboutUs": "Sobre Nós",
+  "citySearch.enterSearchRadius": "Insira o raio de pesquisa em quilômetros",
+  "citySearch.enterCity": "Insira o nome da cidade",
+  "citySearch.searchButton": "Pesquisar",
+  "citySearch.totalShelters": "total de {count} abrigos em {radius} km da cidade de {city}",
+  "citySearch.viewOnGoogleMaps": "Ver no Google Maps",
+  "nearbySearch.enterSearchRadius": "Insira o raio de pesquisa em quilômetros",
+  "nearbySearch.findSheltersButton": "Encontrar Abrigos Próximos",
+  "nearbySearch.loadingMessage": "Carregando...",
+  "nearbySearch.totalShelters": "Total de {count} abrigos a {radius} km da sua localização",
+  "nearbySearch.viewOnGoogleMaps": "Ver no Google Maps"
+}

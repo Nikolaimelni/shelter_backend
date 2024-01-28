@@ -1,0 +1,20 @@
+{
+  "home.title": "Atrast tuvāko patversmi dzīvniekiem",
+  "home.paragraph1": "Vai esi atradis dzīvnieku, kuram nepieciešama palīdzība? Rīkojies tūlīt! Mūsu tīmekļa vietne ir tava nekavējoties pieejamā pāreja pie tuvākā patversmes vai veterinārās palīdzības atrastīšanas dzīvniekiem. Šajā pasaulē, kur pārāk daudzi mājdzīvnieki tiek atstāti novārtā, mēs ļaujam tev pieņemt atbildīgu un žēlastīgu izvēli.",
+  "home.paragraph2": "Tas nav tikai palīdzības meklēšana; tas ir par kopienas daļu būšanu, kura ciena dzīvnieku labturību. Ja sastop dzīvnieku, kuram nepieciešama palīdzība, atceries, ka mūsu tīmekļa vietne ir tavs pirmais solis pozitīvai ietekmei. Kopā mēs varam nodrošināt, lai katrs dzīvnieks saņemtu mīlestību un rūpes, kādas viņi pelna.",
+  "navbar.home": "Sākumlapa",
+  "navbar.findNearestShelter": "Atrast Tuvošāko Patversmi",
+  "navbar.findShelterInYourTown": "Atrast Patversmi Tavā Pilsētā",
+  "navbar.aboutUs": "Par Mums",
+  
+  "citySearch.enterSearchRadius": "Ievadiet meklēšanas rādiusu kilometros",
+  "citySearch.enterCity": "Ievadiet pilsētas nosaukumu",
+  "citySearch.searchButton": "Meklēt",
+  "citySearch.totalShelters": "Kopā {count} patversmes {radius} km attālumā no pilsētas {city}",
+  "citySearch.viewOnGoogleMaps": "Skatīt Google Kartē",
+  
+  "nearbySearch.enterSearchRadius": "Ievadiet meklēšanas rādiusu kilometros",
+  "nearbySearch.searchButton": "Atrast Tuvošāko Patversmi",
+  "nearbySearch.totalShelters": "Kopā {count} patversmes {radius} km attālumā no jūsu atrašanās vietas",
+  "nearbySearch.viewOnGoogleMaps": "Skatīt Google Kartē"
+}

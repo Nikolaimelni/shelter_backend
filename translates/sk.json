@@ -1,0 +1,20 @@
+{
+  "home.title": "Nájdi Najbližšie Útočisko pre Zvieratá",
+  "home.paragraph1": "Našli ste zviera, ktoré potrebuje pomoc? Okamžite konajte! Naša webová stránka je vašou okamžitou bránou k hľadaniu najbližšieho útočiska alebo veterinárnej pomoci pre zvieratá. V svete, kde je príliš veľa opustených domácich miláčikov, vám umožňujeme urobiť zodpovedný a súcitný výber.",
+  "home.paragraph2": "Nejde len o hľadanie pomoci; ide o to, byť súčasťou komunity, ktorá si váži pohodu zvierat. Ak narazíte na zviera, ktoré potrebuje pomoc, pamätajte si, že naša webová stránka je vaším prvým krokom k pozitívnemu vplyvu. Spolu môžeme zabezpečiť, aby každé zviera dostalo lásku a starostlivosť, ktorú si zaslúži.",
+  "navbar.home": "Domov",
+  "navbar.findNearestShelter": "Nájdi Najbližšie Útočisko",
+  "navbar.findShelterInYourTown": "Nájdi Útočisko vo Tvojom Meste",
+  "navbar.aboutUs": "O Nás",
+  
+  "citySearch.enterSearchRadius": "Zadajte polomer hľadania v kilometroch",
+  "citySearch.enterCity": "Zadajte názov mesta",
+  "citySearch.searchButton": "Hľadať",
+  "citySearch.totalShelters": "Celkom {count} útočísk v polomere {radius} km od mesta {city}",
+  "citySearch.viewOnGoogleMaps": "Zobraziť na Google Mapách",
+  
+  "nearbySearch.enterSearchRadius": "Zadajte polomer hľadania v kilometroch",
+  "nearbySearch.searchButton": "Nájdi Najbližšie Útočisko",
+  "nearbySearch.totalShelters": "Celkom {count} útočísk v polomere {radius} km od vašej aktuálnej polohy",
+  "nearbySearch.viewOnGoogleMaps": "Zobraziť na Google Mapách"
+}

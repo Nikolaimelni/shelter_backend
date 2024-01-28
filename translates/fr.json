@@ -1,0 +1,19 @@
+{
+  "home.title": "Trouver des Refuges pour Animaux",
+  "home.paragraph1": "Avez-vous trouvé un animal dans le besoin ? Agissez maintenant ! Notre site web est votre passerelle immédiate pour trouver le refuge le plus proche ou une assistance vétérinaire pour tout animal que vous rencontrez.",
+  "home.paragraph2": "Dans un monde où trop d'animaux sont abandonnés, nous vous donnons les moyens de prendre une décision responsable et compatissante. Découvrez les refuges locaux et les options de sauvetage pour les animaux en détresse et soyez l'aide dont ils ont urgemment besoin.",
+  "navbar.home": "Accueil",
+  "navbar.findNearestShelter": "Trouver un Refuge Proche",
+  "navbar.findShelterInYourTown": "Trouver un Refuge dans Votre Ville",
+  "navbar.aboutUs": "À Propos de Nous",
+  "citySearch.enterSearchRadius": "Entrez le rayon de recherche en kilomètres",
+  "citySearch.enterCity": "Entrez le nom de la ville",
+  "citySearch.searchButton": "Rechercher",
+  "citySearch.totalShelters": "total {count} refuges à {radius} km de {city}",
+  "citySearch.viewOnGoogleMaps": "Voir sur Google Maps",
+  "nearbySearch.enterSearchRadius": "Entrez le rayon de recherche en kilomètres",
+  "nearbySearch.findSheltersButton": "Trouver des Refuges à Proximité",
+  "nearbySearch.loadingMessage": "Chargement...",
+  "nearbySearch.totalShelters": "{count} refuges au total dans un rayon de {radius} km de votre emplacement",
+  "nearbySearch.viewOnGoogleMaps": "Voir sur Google Maps"
+}

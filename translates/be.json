@@ -1,0 +1,19 @@
+{
+  "home.title": "Знайдзіце прытулкі для жывёл",
+  "home.paragraph1": "Цімаце жывёла ў бядзе? Дзеюце зараз! Наш вэб-сайт - гэта ваша бягучая брама да знаходжання найбліжэйшага прытулку для жывёл або ветэрынарнай дапамогі для любога жывёла, якога вы сустракаеце.",
+  "home.paragraph2": "У сусвете, дзе шмат звяроў пакідаюцца, мы дазваляем вам прыняць адказную і сумленную выбар. Адкрыйце мясцовыя прытулкі і варыянты ратавання для жывёл у бядзе і будзьце дапамогай, якую яны так цярпліва чакаюць.",
+  "navbar.home": "Галоўная",
+  "navbar.findNearestShelter": "Знайсці найбліжэйшы прытулак",
+  "navbar.findShelterInYourTown": "Знайсці прытулак у вашым горадзе",
+  "navbar.aboutUs": "Аб нас",
+  "citySearch.enterSearchRadius": "Увядзіце радыус пошуку ў кіламетрах",
+  "citySearch.enterCity": "Увядзіце назву горада",
+  "citySearch.searchButton": "Пошук",
+  "citySearch.totalShelters": "усяго {count} прытулкаў у радыусе {radius} кіламетраў ад горада {city}",
+  "citySearch.viewOnGoogleMaps": "Праглядзець на Google Maps",
+  "nearbySearch.enterSearchRadius": "Увядзіце радыус пошуку ў кіламетрах",
+  "nearbySearch.findSheltersButton": "Знайсці прытулкі ў близькасці",
+  "nearbySearch.loadingMessage": "Загрузка...",
+  "nearbySearch.totalShelters": "Усяго {count} прытулкаў у радыусе {radius} кіламетраў ад вашага месцазнаходжання",
+  "nearbySearch.viewOnGoogleMaps": "Праглядзець на Google Maps"
+}

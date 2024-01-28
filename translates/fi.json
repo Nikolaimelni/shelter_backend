@@ -1,0 +1,19 @@
+{
+  "home.title": "Etsi Eläinten Suojelupaikkoja",
+  "home.paragraph1": "Oletko löytänyt avun tarpeessa olevan eläimen? Toimi heti! Verkkosivustomme on välitön portti lähimmän suojapaikan tai eläinlääkäriavun löytämiseen kaikille kohtaamillesi eläimille.",
+  "home.paragraph2": "Maailmassa, jossa liian monet eläimet hylätään, annamme sinulle mahdollisuuden tehdä vastuullinen ja myötätuntoinen päätös. Löydä paikalliset suojapaikat ja pelastusvaihtoehdot avun tarpeessa oleville eläimille ja ole apu, jota he kiireellisesti tarvitsevat.",
+  "navbar.home": "Koti",
+  "navbar.findNearestShelter": "Etsi Lähin Suojapaikka",
+  "navbar.findShelterInYourTown": "Etsi Suojapaikka Kaupungissasi",
+  "navbar.aboutUs": "Tietoa Meistä",
+  "citySearch.enterSearchRadius": "Anna hakusäde kilometreinä",
+  "citySearch.enterCity": "Anna kaupungin nimi",
+  "citySearch.searchButton": "Etsi",
+  "citySearch.totalShelters": "yhteensä {count} suojapaikkaa {radius} km:n säteellä kaupungista {city}",
+  "citySearch.viewOnGoogleMaps": "Näytä Google Mapsissa",
+  "nearbySearch.enterSearchRadius": "Anna hakusäde kilometreinä",
+  "nearbySearch.findSheltersButton": "Etsi Suojapaikkoja Lähellä",
+  "nearbySearch.loadingMessage": "Ladataan...",
+  "nearbySearch.totalShelters": "Yhteensä {count} suojapaikkaa {radius} km:n säteellä sijainnistasi",
+  "nearbySearch.viewOnGoogleMaps": "Näytä Google Mapsissa"
+}

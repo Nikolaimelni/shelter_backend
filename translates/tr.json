@@ -1,0 +1,19 @@
+{
+  "home.title": "Hayvan Barınaklarını Bul",
+  "home.paragraph1": "İhtiyacı olan bir hayvan mı buldunuz? Hemen harekete geçin! Web sitemiz, karşılaştığınız herhangi bir hayvan için en yakın barınağı veya veteriner yardımını bulmanız için anında bir kapınız gibidir.",
+  "home.paragraph2": "Çok fazla hayvanın terk edildiği bir dünyada, sorumlu ve şefkatli bir seçim yapmanıza olanak tanırız. İhtiyaç içindeki hayvanlar için yerel barınakları ve kurtarma seçeneklerini keşfedin ve acil olarak ihtiyaçları olan yardım olun.",
+  "navbar.home": "Ana Sayfa",
+  "navbar.findNearestShelter": "En Yakın Barınak Bul",
+  "navbar.findShelterInYourTown": "Şehrinizde Barınak Bul",
+  "navbar.aboutUs": "Hakkımızda",
+  "citySearch.enterSearchRadius": "Arama yarıçapını kilometre cinsinden girin",
+  "citySearch.enterCity": "Şehir adını girin",
+  "citySearch.searchButton": "Ara",
+  "citySearch.totalShelters": "{city} şehrindeki {radius} km içinde toplam {count} barınak",
+  "citySearch.viewOnGoogleMaps": "Google Haritalarda Görüntüle",
+  "nearbySearch.enterSearchRadius": "Arama yarıçapını kilometre cinsinden girin",
+  "nearbySearch.findSheltersButton": "Yakındaki Barınakları Bul",
+  "nearbySearch.loadingMessage": "Yükleniyor...",
+  "nearbySearch.totalShelters": "Konumunuza {radius} km içinde toplam {count} barınak",
+  "nearbySearch.viewOnGoogleMaps": "Google Haritalarda Görüntüle"
+}

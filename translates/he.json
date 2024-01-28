@@ -1,0 +1,19 @@
+{
+  "home.title": "מצא מקלטים לחיות",
+  "home.paragraph1": "מצאת חיה במצב דחוף? תעשה זאת מיד! האתר שלנו הוא השער המיידי שלך למציאת המקלט הקרוב ביותר או לעזרה וטרינרית לחיות שתמצא.",
+  "home.paragraph2": "בעולם בו מיותרות יותר חיות חבר ממה שצריך, אנחנו נותנים לך אפשרות לקבוע בצורה אחראית ומרגשת. גלה מקלטים מקומיים ואפשרויות להצלת חיות בסיכון והיה העזרה שהן זקוקות לה בחירוף נפש.",
+  "navbar.home": "עמוד הבית",
+  "navbar.findNearestShelter": "מצא מקלטים הכי קרובים",
+  "navbar.findShelterInYourTown": "מצא מקלט בעיר שלך",
+  "navbar.aboutUs": "אודותינו",
+  "citySearch.enterSearchRadius": "הזן רדיוס חיפוש בקילומטרים",
+  "citySearch.enterCity": "הזן שם עיר",
+  "citySearch.searchButton": "חיפוש",
+  "citySearch.totalShelters": "סה\"כ {count} מקלטים ברדיוס של {radius} קילומטרים מעיר {city}",
+  "citySearch.viewOnGoogleMaps": "הצג במפות Google",
+  "nearbySearch.enterSearchRadius": "הזן רדיוס חיפוש בקילומטרים",
+  "nearbySearch.findSheltersButton": "מצא מקלטים בסמוך",
+  "nearbySearch.loadingMessage": "טוען...",
+  "nearbySearch.totalShelters": "סה\"כ {count} מקלטים במרחק של {radius} קילומטרים מהמיקום שלך",
+  "nearbySearch.viewOnGoogleMaps": "הצג במפות Google"
+}

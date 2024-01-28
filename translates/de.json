@@ -1,0 +1,19 @@
+{
+  "home.title": "Tierheime Finden",
+  "home.paragraph1": "Hast du ein hilfsbedürftiges Tier gefunden? Handele jetzt! Unsere Website ist dein direkter Zugang zu den nächstgelegenen Tierheimen oder tierärztlicher Hilfe für jedes Tier, das du findest.",
+  "home.paragraph2": "In einer Welt, in der zu viele Haustiere ausgesetzt werden, ermächtigen wir dich, eine verantwortungsvolle und mitfühlende Entscheidung zu treffen. Entdecke lokale Tierheime und Rettungsoptionen für Tiere in Not und sei die dringend benötigte Hilfe.",
+  "navbar.home": "Startseite",
+  "navbar.findNearestShelter": "Nächstes Tierheim Finden",
+  "navbar.findShelterInYourTown": "Tierheim in deiner Stadt Finden",
+  "navbar.aboutUs": "Über Uns",
+  "citySearch.enterSearchRadius": "Gib den Suchradius in Kilometern ein",
+  "citySearch.enterCity": "Gib den Stadtnamen ein",
+  "citySearch.searchButton": "Suchen",
+  "citySearch.totalShelters": "Insgesamt {count} Tierheime in {radius} km Entfernung von {city}",
+  "citySearch.viewOnGoogleMaps": "Auf Google Maps anzeigen",
+  "nearbySearch.enterSearchRadius": "Gib den Suchradius in Kilometern ein",
+  "nearbySearch.findSheltersButton": "Tierheime in der Nähe finden",
+  "nearbySearch.loadingMessage": "Laden...",
+  "nearbySearch.totalShelters": "Insgesamt {count} Tierheime innerhalb von {radius} km von deinem Standort",
+  "nearbySearch.viewOnGoogleMaps": "Auf Google Maps anzeigen"
+}

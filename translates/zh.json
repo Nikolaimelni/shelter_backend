@@ -1,0 +1,19 @@
+{
+  "home.title": "查找动物收容所",
+  "home.paragraph1": "发现有需要的动物了吗？立即采取行动！我们的网站是您找到最近的动物收容所或兽医协助的直接入口。",
+  "home.paragraph2": "在一个太多宠物被遗弃的世界中，我们赋予您做出负责和富有同情心的选择的权力。发现当地的动物收容所和拯救选项，为处于危险中的动物提供迫切需要的帮助。",
+  "navbar.home": "主页",
+  "navbar.findNearestShelter": "查找最近的收容所",
+  "navbar.findShelterInYourTown": "在您的城市找到收容所",
+  "navbar.aboutUs": "关于我们",
+  "citySearch.enterSearchRadius": "输入以千米为单位的搜索半径",
+  "citySearch.enterCity": "输入城市名称",
+  "citySearch.searchButton": "搜索",
+  "citySearch.totalShelters": "{city} 城市 {radius} 千米范围内共有 {count} 家收容所",
+  "citySearch.viewOnGoogleMaps": "在 Google 地图上查看",
+  "nearbySearch.enterSearchRadius": "输入以千米为单位的搜索半径",
+  "nearbySearch.findSheltersButton": "查找附近的收容所",
+  "nearbySearch.loadingMessage": "加载中...",
+  "nearbySearch.totalShelters": "您的位置附近 {radius} 千米范围内共有 {count} 家收容所",
+  "nearbySearch.viewOnGoogleMaps": "在 Google 地图上查看"
+}

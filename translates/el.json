@@ -1,0 +1,21 @@
+{
+  "home.title": "Βρείτε καταφύγια για ζώα",
+  "home.paragraph1": "Βρήκατε ένα ζώο σε κίνδυνο; Δράστε τώρα! Ο ιστότοπός μας είναι η πύλη σας για την εύρεση του πλησιέστερου καταφυγίου για ζώα ή κτηνιατρική βοήθεια για οποιοδήποτε ζώο συναντάτε.",
+  "home.paragraph2": "Σε έναν κόσμο όπου πολλά κατοικίδια εγκαταλείπονται, σας δίνουμε τη δυνατότητα να πάρετε μια υπεύθυνη και συναισθηματική απόφαση. Ανακαλύψτε τοπικά καταφύγια και επιλογές διάσωσης για ζώα σε κίνδυνο και γίνετε η βοήθεια που χρειάζονται επειγόντως.",
+  "navbar.home": "Αρχική σελίδα",
+  "navbar.findNearestShelter": "Βρείτε το πλησιέστερο καταφύγιο",
+  "navbar.findShelterInYourTown": "Βρείτε καταφύγιο στην πόλη σας",
+  "navbar.aboutUs": "Σχετικά με εμάς",
+  
+  "citySearch.enterSearchRadius": "Εισαγάγετε ακτίνα αναζήτησης σε χιλιόμετρα",
+  "citySearch.enterCity": "Εισαγάγετε την πόλη",
+  "citySearch.searchButton": "Αναζήτηση",
+  "citySearch.totalShelters": "συνολικά {count} καταφύγια σε ακτίνα {radius} χιλιομέτρων από την πόλη {city}",
+  "citySearch.viewOnGoogleMaps": "Προβολή στους χάρτες της Google",
+  
+  "nearbySearch.enterSearchRadius": "Εισαγάγετε ακτίνα αναζήτησης σε χιλιόμετρα",
+  "nearbySearch.findSheltersButton": "Βρείτε καταφύγια κοντά σας",
+  "nearbySearch.loadingMessage": "Φόρτωση...",
+  "nearbySearch.totalShelters": "Συνολικά {count} καταφύγια σε ακτίνα {radius} χιλιομέτρων από τη θέση σας",
+  "nearbySearch.viewOnGoogleMaps": "Προβολή στους χάρτες της Google"
+}

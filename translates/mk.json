@@ -1,0 +1,19 @@
+{
+  "home.title": "Најдете засолништа за животни",
+  "home.paragraph1": "Го најдовте животното во неволја? Дејствувајте одма! Нашиот веб-сајт е вашата брза врата за наоѓање на најблиското засолниште за животни или ветеринарска помош за секое животно кое го сретнете.",
+  "home.paragraph2": "Во свет каде што премногу домашни миленици се оставени, ви даваме можност да направите одговорна и сочувствена одлука. Откријте ги локалните засолништа и можностите за спасување на животни во неволја и бидете помош која срочно ја потребуваат.",
+  "navbar.home": "Дома",
+  "navbar.findNearestShelter": "Најди најблиско засолниште",
+  "navbar.findShelterInYourTown": "Најди засолниште во твојот град",
+  "navbar.aboutUs": "За нас",
+  "citySearch.enterSearchRadius": "Внесете радиус на пребарување во километри",
+  "citySearch.enterCity": "Внесете го името на градот",
+  "citySearch.searchButton": "Пребарување",
+  "citySearch.totalShelters": "вкупно {count} засолништа во радиус од {radius} километри од градот {city}",
+  "citySearch.viewOnGoogleMaps": "Преглед на Google Мапи",
+  "nearbySearch.enterSearchRadius": "Внесете радиус на пребарување во километри",
+  "nearbySearch.findSheltersButton": "Најдете засолништа во близина",
+  "nearbySearch.loadingMessage": "Вчитување...",
+  "nearbySearch.totalShelters": "Вкупно {count} засолништа во радиус од {radius} километри од вашата локација",
+  "nearbySearch.viewOnGoogleMaps": "Преглед на Google Мапи"
+}
