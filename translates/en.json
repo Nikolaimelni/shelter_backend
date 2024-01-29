@@ -15,6 +15,8 @@
   "nearbySearch.findSheltersButton": "Find Shelters Nearby",
   "nearbySearch.loadingMessage": "Loading...",
   "nearbySearch.totalShelters": "Total {count} shelters within {radius} km from your location",
-  "nearbySearch.viewOnGoogleMaps": "View on Google Maps"
+  "nearbySearch.viewOnGoogleMaps": "View on Google Maps",
+  "navbar.changeLanguage": "Change language",
+  "navbar.language": "Language"
 }
   

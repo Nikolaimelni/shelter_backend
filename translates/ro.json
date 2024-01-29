@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Găsiți adăposturi în apropiere",
   "nearbySearch.loadingMessage": "Se încarcă...",
   "nearbySearch.totalShelters": "Total {count} adăposturi într-un diametru de {radius} kilometri de la locația dvs.",
-  "nearbySearch.viewOnGoogleMaps": "Vizualizați pe Google Maps"
+  "nearbySearch.viewOnGoogleMaps": "Vizualizați pe Google Maps",
+  "navbar.changeLanguage": "Schimbă limba",
+  "navbar.language": "Limbă"
 }

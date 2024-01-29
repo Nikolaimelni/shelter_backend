@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Pronađite skloništa u blizini",
   "nearbySearch.loadingMessage": "Učitavanje...",
   "nearbySearch.totalShelters": "Ukupno {count} skloništa u radijusu od {radius} kilometara od vaše lokacije",
-  "nearbySearch.viewOnGoogleMaps": "Pogledajte na Google karti"
+  "nearbySearch.viewOnGoogleMaps": "Pogledajte na Google karti",
+  "navbar.changeLanguage": "Promijeni jezik",
+  "navbar.language": "Jezik"
 }

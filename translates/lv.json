@@ -6,15 +6,15 @@
   "navbar.findNearestShelter": "Atrast Tuvošāko Patversmi",
   "navbar.findShelterInYourTown": "Atrast Patversmi Tavā Pilsētā",
   "navbar.aboutUs": "Par Mums",
-  
   "citySearch.enterSearchRadius": "Ievadiet meklēšanas rādiusu kilometros",
   "citySearch.enterCity": "Ievadiet pilsētas nosaukumu",
   "citySearch.searchButton": "Meklēt",
   "citySearch.totalShelters": "Kopā {count} patversmes {radius} km attālumā no pilsētas {city}",
   "citySearch.viewOnGoogleMaps": "Skatīt Google Kartē",
-  
   "nearbySearch.enterSearchRadius": "Ievadiet meklēšanas rādiusu kilometros",
   "nearbySearch.searchButton": "Atrast Tuvošāko Patversmi",
   "nearbySearch.totalShelters": "Kopā {count} patversmes {radius} km attālumā no jūsu atrašanās vietas",
-  "nearbySearch.viewOnGoogleMaps": "Skatīt Google Kartē"
+  "nearbySearch.viewOnGoogleMaps": "Skatīt Google Kartē",
+  "navbar.changeLanguage": "Mainīt valodu",
+  "navbar.language": "Valoda"
 }

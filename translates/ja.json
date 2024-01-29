@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "近くのシェルターを検索",
   "nearbySearch.loadingMessage": "読み込んでいます...",
   "nearbySearch.totalShelters": "あなたの位置から半径 {radius} キロメートル以内に合計 {count} 件のシェルター",
-  "nearbySearch.viewOnGoogleMaps": "Google マップで表示"
+  "nearbySearch.viewOnGoogleMaps": "Google マップで表示",
+  "navbar.changeLanguage": "言語を変更する",
+  "navbar.language": "言語"
 }

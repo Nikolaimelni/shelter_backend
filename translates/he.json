@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "מצא מקלטים בסמוך",
   "nearbySearch.loadingMessage": "טוען...",
   "nearbySearch.totalShelters": "סה\"כ {count} מקלטים במרחק של {radius} קילומטרים מהמיקום שלך",
-  "nearbySearch.viewOnGoogleMaps": "הצג במפות Google"
+  "nearbySearch.viewOnGoogleMaps": "הצג במפות Google",
+  "navbar.changeLanguage": "שנה שפה",
+  "navbar.language": "שפה"
 }

@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersNearby": "ค้นหาสถานสงเคราะห์ใกล้ๆ",
   "nearbySearch.loading": "กำลังโหลด...",
   "nearbySearch.totalShelters": "รวม {count} สถานสงเคราะห์ภายในรัศมี {radius} กิโลเมตรจากตำแหน่งของคุณ",
-  "nearbySearch.viewOnGoogleMaps": "ดูใน Google Maps"
+  "nearbySearch.viewOnGoogleMaps": "ดูใน Google Maps",
+  "navbar.changeLanguage": "เปลี่ยนภาษา",
+  "navbar.language": "ภาษา"
 }

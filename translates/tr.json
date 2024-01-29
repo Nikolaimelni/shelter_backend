@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Yakındaki Barınakları Bul",
   "nearbySearch.loadingMessage": "Yükleniyor...",
   "nearbySearch.totalShelters": "Konumunuza {radius} km içinde toplam {count} barınak",
-  "nearbySearch.viewOnGoogleMaps": "Google Haritalarda Görüntüle"
+  "nearbySearch.viewOnGoogleMaps": "Google Haritalarda Görüntüle",
+  "navbar.changeLanguage": "Dili değiştir",
+  "navbar.language": "Dil"
 }

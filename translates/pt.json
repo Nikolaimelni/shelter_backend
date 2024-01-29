@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Encontrar Abrigos Próximos",
   "nearbySearch.loadingMessage": "Carregando...",
   "nearbySearch.totalShelters": "Total de {count} abrigos a {radius} km da sua localização",
-  "nearbySearch.viewOnGoogleMaps": "Ver no Google Maps"
+  "nearbySearch.viewOnGoogleMaps": "Ver no Google Maps",
+  "navbar.changeLanguage": "Mudar idioma",
+  "navbar.language": "Idioma"
 }

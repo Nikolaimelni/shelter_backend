@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Vind Dierenasielen In De Buurt",
   "nearbySearch.loadingMessage": "Laden...",
   "nearbySearch.totalShelters": "Totaal {count} dierenasielen binnen {radius} km van jouw locatie",
-  "nearbySearch.viewOnGoogleMaps": "Bekijk op Google Maps"
+  "nearbySearch.viewOnGoogleMaps": "Bekijk op Google Maps",
+  "navbar.changeLanguage": "Endre språk",
+  "navbar.language": "Språk"
 }

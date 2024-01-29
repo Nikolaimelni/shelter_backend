@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Tierheime in der Nähe finden",
   "nearbySearch.loadingMessage": "Laden...",
   "nearbySearch.totalShelters": "Insgesamt {count} Tierheime innerhalb von {radius} km von deinem Standort",
-  "nearbySearch.viewOnGoogleMaps": "Auf Google Maps anzeigen"
+  "nearbySearch.viewOnGoogleMaps": "Auf Google Maps anzeigen",
+  "navbar.changeLanguage": "Sprache ändern",
+  "navbar.language": "Sprache"
 }

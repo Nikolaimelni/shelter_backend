@@ -14,5 +14,7 @@
   "nearbySearch.enterSearchRadius": "Nhập bán kính tìm kiếm trong kilômét",
   "nearbySearch.searchButton": "Tìm Nơi Cứu Trợ Gần Đây",
   "nearbySearch.totalShelters": "Tổng cộng {count} nơi cứu trợ trong bán kính {radius} km từ vị trí của bạn",
-  "nearbySearch.viewOnGoogleMaps": "Xem trên Google Maps"
+  "nearbySearch.viewOnGoogleMaps": "Xem trên Google Maps",
+  "navbar.changeLanguage": "Thay đổi ngôn ngữ",
+  "navbar.language": "Ngôn ngữ"
 }

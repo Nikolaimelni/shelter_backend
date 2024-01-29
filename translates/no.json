@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Finn tilfluktssteder i nærheten",
   "nearbySearch.loadingMessage": "Laster inn...",
   "nearbySearch.totalShelters": "Totalt {count} tilfluktssteder innenfor {radius} kilometer fra din posisjon",
-  "nearbySearch.viewOnGoogleMaps": "Vis på Google Maps"
+  "nearbySearch.viewOnGoogleMaps": "Vis på Google Maps",
+  "navbar.changeLanguage": "Zmień język",
+  "navbar.language": "Język"
 }

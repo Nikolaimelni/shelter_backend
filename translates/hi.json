@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersNearby": "निकटवर्ती शेल्टर खोजें",
   "nearbySearch.loading": "लोड हो रहा है...",
   "nearbySearch.totalShelters": "आपके स्थान से {radius} किमी के दायरे में कुल {count} शेल्टर",
-  "nearbySearch.viewOnGoogleMaps": "Google Maps पर देखें"
+  "nearbySearch.viewOnGoogleMaps": "Google Maps पर देखें",
+  "navbar.changeLanguage": "भाषा बदलें",
+  "navbar.language": "भाषा"
 }

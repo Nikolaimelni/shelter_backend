@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Leidke varjupaigad lähedal",
   "nearbySearch.loadingMessage": "Laadimine...",
   "nearbySearch.totalShelters": "kokku {count} varjupaika {radius} km raadiuses teie asukohast",
-  "nearbySearch.viewOnGoogleMaps": "Kuva Google Mapsis"
+  "nearbySearch.viewOnGoogleMaps": "Kuva Google Mapsis",
+  "navbar.changeLanguage": "Muuda keelt",
+  "navbar.language": "Keel"
 }

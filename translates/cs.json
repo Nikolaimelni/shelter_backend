@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Najít Útulky v Blízkosti",
   "nearbySearch.loadingMessage": "Načítání...",
   "nearbySearch.totalShelters": "Celkem {count} útulků v poloměru {radius} km od vaší polohy",
-  "nearbySearch.viewOnGoogleMaps": "Zobrazit na Google Mapách"
+  "nearbySearch.viewOnGoogleMaps": "Zobrazit na Google Mapách",
+  "navbar.changeLanguage": "Změnit jazyk",
+  "navbar.language": "Jazyk"
 }

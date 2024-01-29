@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Etsi Suojapaikkoja Lähellä",
   "nearbySearch.loadingMessage": "Ladataan...",
   "nearbySearch.totalShelters": "Yhteensä {count} suojapaikkaa {radius} km:n säteellä sijainnistasi",
-  "nearbySearch.viewOnGoogleMaps": "Näytä Google Mapsissa"
+  "nearbySearch.viewOnGoogleMaps": "Näytä Google Mapsissa",
+  "navbar.changeLanguage": "Vaihda kieltä",
+  "navbar.language": "Kieli"
 }

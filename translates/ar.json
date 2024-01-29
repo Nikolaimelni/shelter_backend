@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "البحث عن مأوى قريب",
   "nearbySearch.loadingMessage": "جاري التحميل...",
   "nearbySearch.totalShelters": "مجموع {count} مأوى على بعد {radius} كيلومتر من موقعك",
-  "nearbySearch.viewOnGoogleMaps": "عرض على خرائط Google"
+  "nearbySearch.viewOnGoogleMaps": "عرض على خرائط Google",
+  "navbar.changeLanguage": "تغيير اللغة",
+  "navbar.language": "اللغة"
 }

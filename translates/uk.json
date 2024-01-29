@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Знайти Притулки Поблизу",
   "nearbySearch.loadingMessage": "Завантаження...",
   "nearbySearch.totalShelters": "Всього {count} притулків у радіусі {radius} км від вашого місцезнаходження",
-  "nearbySearch.viewOnGoogleMaps": "Переглянути на Google Мапах"
+  "nearbySearch.viewOnGoogleMaps": "Переглянути на Google Мапах",
+  "navbar.changeLanguage": "Змінити мову",
+  "navbar.language": "Мова"
 }

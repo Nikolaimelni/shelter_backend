@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Znajdź Schroniska W Okolicy",
   "nearbySearch.loadingMessage": "Ładowanie...",
   "nearbySearch.totalShelters": "Łącznie {count} schronisk w promieniu {radius} km od Twojej lokalizacji",
-  "nearbySearch.viewOnGoogleMaps": "Zobacz na Google Maps"
+  "nearbySearch.viewOnGoogleMaps": "Zobacz na Google Maps",
+  "navbar.changeLanguage": "Zmień język",
+  "navbar.language": "Język"
 }

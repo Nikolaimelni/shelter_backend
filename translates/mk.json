@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Најдете засолништа во близина",
   "nearbySearch.loadingMessage": "Вчитување...",
   "nearbySearch.totalShelters": "Вкупно {count} засолништа во радиус од {radius} километри од вашата локација",
-  "nearbySearch.viewOnGoogleMaps": "Преглед на Google Мапи"
+  "nearbySearch.viewOnGoogleMaps": "Преглед на Google Мапи",
+  "navbar.changeLanguage": "Промени јазик",
+  "navbar.language": "Јазик"
 }

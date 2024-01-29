@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "查找附近的收容所",
   "nearbySearch.loadingMessage": "加载中...",
   "nearbySearch.totalShelters": "您的位置附近 {radius} 千米范围内共有 {count} 家收容所",
-  "nearbySearch.viewOnGoogleMaps": "在 Google 地图上查看"
+  "nearbySearch.viewOnGoogleMaps": "在 Google 地图上查看",
+  "navbar.changeLanguage": "更改语言",
+  "navbar.language": "语言"
 }

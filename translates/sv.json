@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Hitta Djurhem i Närområdet",
   "nearbySearch.loadingMessage": "Laddar...",
   "nearbySearch.totalShelters": "Totalt {count} djurhem inom {radius} km från din plats",
-  "nearbySearch.viewOnGoogleMaps": "Visa på Google Maps"
+  "nearbySearch.viewOnGoogleMaps": "Visa på Google Maps",
+  "navbar.changeLanguage": "Byt språk",
+  "navbar.language": "Språk"
 }

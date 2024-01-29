@@ -15,5 +15,7 @@
   "nearbySearch.findSheltersButton": "Raskite prieglaudas netoli",
   "nearbySearch.loadingMessage": "Įkeliama...",
   "nearbySearch.totalShelters": "viso {count} prieglaudos {radius} km spinduliu nuo jūsų vietos",
-  "nearbySearch.viewOnGoogleMaps": "Peržiūrėti Google Žemėlapiuose"
+  "nearbySearch.viewOnGoogleMaps": "Peržiūrėti Google Žemėlapiuose",
+  "navbar.changeLanguage": "Pakeisti kalbą",
+  "navbar.language": "Kalba"
 }

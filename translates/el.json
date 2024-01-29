@@ -6,16 +6,16 @@
   "navbar.findNearestShelter": "Βρείτε το πλησιέστερο καταφύγιο",
   "navbar.findShelterInYourTown": "Βρείτε καταφύγιο στην πόλη σας",
   "navbar.aboutUs": "Σχετικά με εμάς",
-  
   "citySearch.enterSearchRadius": "Εισαγάγετε ακτίνα αναζήτησης σε χιλιόμετρα",
   "citySearch.enterCity": "Εισαγάγετε την πόλη",
   "citySearch.searchButton": "Αναζήτηση",
   "citySearch.totalShelters": "συνολικά {count} καταφύγια σε ακτίνα {radius} χιλιομέτρων από την πόλη {city}",
   "citySearch.viewOnGoogleMaps": "Προβολή στους χάρτες της Google",
-  
   "nearbySearch.enterSearchRadius": "Εισαγάγετε ακτίνα αναζήτησης σε χιλιόμετρα",
   "nearbySearch.findSheltersButton": "Βρείτε καταφύγια κοντά σας",
   "nearbySearch.loadingMessage": "Φόρτωση...",
   "nearbySearch.totalShelters": "Συνολικά {count} καταφύγια σε ακτίνα {radius} χιλιομέτρων από τη θέση σας",
-  "nearbySearch.viewOnGoogleMaps": "Προβολή στους χάρτες της Google"
+  "nearbySearch.viewOnGoogleMaps": "Προβολή στους χάρτες της Google",
+  "navbar.changeLanguage": "Αλλαγή γλώσσας",
+  "navbar.language": "Γλώσσα"
 }

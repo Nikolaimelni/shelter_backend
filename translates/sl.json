@@ -14,5 +14,7 @@
   "nearbySearch.enterSearchRadius": "Vnesite iskalni radij v kilometrih",
   "nearbySearch.searchButton": "Najdi Najbližje Zavetišče",
   "nearbySearch.totalShelters": "Skupno {count} zavetišč v radiju {radius} km od vaše lokacije",
-  "nearbySearch.viewOnGoogleMaps": "Poglejte na Google Zemljevidu"
+  "nearbySearch.viewOnGoogleMaps": "Poglejte na Google Zemljevidu",
+  "navbar.changeLanguage": "Spremeni jezik",
+  "navbar.language": "Jezik"
 }
