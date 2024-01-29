@@ -1,4 +1,5 @@
 from flask import Blueprint, jsonify, request
+import requests
 from flask import current_app
 import googlemaps
 from ..utils import get_keywords
@@ -22,7 +23,6 @@ def find_places_in_city():
         return jsonify({'error': 'City not found'}), 404
     location = geocode_result[0]['geometry']['location']
 
-    # Извлекаем ключевые слова (предполагается, что у вас есть функция get_keywords)
     keywords = get_keywords()
 
     for keyword in keywords:
@@ -53,3 +53,17 @@ def find_places_nearby():
                 place['photo_url'] = get_photo_url(photo_reference)
             all_results.append(place)
     return jsonify(all_results)
+
+
+@shelter_routes.route('/autocomplete', methods=['GET'])
+def autocomplete():
+    input_text = request.args.get('input', default='', type=str)
+    params = {
+        'input': input_text,
+        'key': current_app.config['GOOGLE_MAPS_KEY'],
+    }
+    response = requests.get('https://maps.googleapis.com/maps/api/place/autocomplete/json', params=params)
+    if response.status_code == 200:
+        return jsonify(response.json())
+    else:
+        return jsonify({'error': 'Failed to fetch autocomplete results'}), response.status_code
