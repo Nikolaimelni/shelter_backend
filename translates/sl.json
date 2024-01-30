@@ -9,11 +9,11 @@
   "citySearch.enterSearchRadius": "Vnesite iskalni radij v kilometrih",
   "citySearch.enterCity": "Vnesite ime mesta",
   "citySearch.searchButton": "Iskanje",
-  "citySearch.totalShelters": "Skupno {count} zavetišč {radius} km oddaljeno od mesta {city}",
+  "citySearch.totalShelters": "Skupno {{count}} zavetišč {{radius}} km oddaljeno od mesta {{city}}",
   "citySearch.viewOnGoogleMaps": "Poglejte na Google Zemljevidu",
   "nearbySearch.enterSearchRadius": "Vnesite iskalni radij v kilometrih",
   "nearbySearch.searchButton": "Najdi Najbližje Zavetišče",
-  "nearbySearch.totalShelters": "Skupno {count} zavetišč v radiju {radius} km od vaše lokacije",
+  "nearbySearch.totalShelters": "Skupno {{count}} zavetišč v radiju {{radius}} km od vaše lokacije",
   "nearbySearch.viewOnGoogleMaps": "Poglejte na Google Zemljevidu",
   "navbar.changeLanguage": "Spremeni jezik",
   "navbar.language": "Jezik"

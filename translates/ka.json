@@ -9,11 +9,11 @@
   "citySearch.enterSearchRadius": "შეიყვანეთ ძიების რადიუსი კილომეტრებში",
   "citySearch.enterCity": "შეიყვანეთ ქალაქის სახელი",
   "citySearch.searchButton": "ძიება",
-  "citySearch.totalShelters": "სულ {count} საცხოვრებლის რადიუსში {radius} კმ-ში ქალაქი {city}",
+  "citySearch.totalShelters": "სულ {{count}} საცხოვრებლის რადიუსში {{radius}} კმ-ში ქალაქი {{city}}",
   "citySearch.viewOnGoogleMaps": "ნახვა Google რუკაზე",
   "nearbySearch.enterSearchRadius": "შეიყვანეთ ძიების რადიუსი კილომეტრებში",
   "nearbySearch.searchButton": "პირველ ნაბიჯში მოძებნე",
-  "nearbySearch.totalShelters": "სულ {count} საცხოვრებლის რადიუსში {radius} კმ-ში თქვენი მიმდინარე მდებარე",
+  "nearbySearch.totalShelters": "სულ {{count}} საცხოვრებლის რადიუსში {{radius}} კმ-ში თქვენი მიმდინარე მდებარე",
   "nearbySearch.viewOnGoogleMaps": "ნახვა Google რუკაზე",
   "navbar.changeLanguage": "ენის შეცვლა",
   "navbar.language": "ენა"

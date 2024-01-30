@@ -10,12 +10,12 @@
   "citySearch.enterSearchRadius": "Zadajte polomer hľadania v kilometroch",
   "citySearch.enterCity": "Zadajte názov mesta",
   "citySearch.searchButton": "Hľadať",
-  "citySearch.totalShelters": "Celkom {count} útočísk v polomere {radius} km od mesta {city}",
+  "citySearch.totalShelters": "Celkom {{count}} útočísk v polomere {{radius}} km od mesta {{city}}",
   "citySearch.viewOnGoogleMaps": "Zobraziť na Google Mapách",
   
   "nearbySearch.enterSearchRadius": "Zadajte polomer hľadania v kilometroch",
   "nearbySearch.searchButton": "Nájdi Najbližšie Útočisko",
-  "nearbySearch.totalShelters": "Celkom {count} útočísk v polomere {radius} km od vašej aktuálnej polohy",
+  "nearbySearch.totalShelters": "Celkom {{count}} útočísk v polomere {{radius}} km od vašej aktuálnej polohy",
   "nearbySearch.viewOnGoogleMaps": "Zobraziť na Google Mapách",
   "navbar.changeLanguage": "Zmeniť jazyk",
   "navbar.language": "Jazyk"

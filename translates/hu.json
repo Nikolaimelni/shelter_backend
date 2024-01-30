@@ -9,11 +9,11 @@
   "citySearch.enterSearchRadius": "Adja meg a keresési sugár méretét kilométerben",
   "citySearch.enterCity": "Adja meg a város nevét",
   "citySearch.searchButton": "Keresés",
-  "citySearch.totalShelters": "Összesen {count} menhely a {radius} km-es körzetben, innen: {city}",
+  "citySearch.totalShelters": "Összesen {{count}} menhely a {{radius}} km-es körzetben, innen: {{city}}",
   "citySearch.viewOnGoogleMaps": "Megtekintés a Google Térképen",
   "nearbySearch.enterSearchRadius": "Adja meg a keresési sugár méretét kilométerben",
   "nearbySearch.searchButton": "Keresd Meg a Legközelebbi Menhelyet",
-  "nearbySearch.totalShelters": "Összesen {count} menhely a {radius} km-es körzetben, a jelenlegi helyzetedtől számítva",
+  "nearbySearch.totalShelters": "Összesen {{count}} menhely a {{radius}} km-es körzetben, a jelenlegi helyzetedtől számítva",
   "nearbySearch.viewOnGoogleMaps": "Megtekintés a Google Térképen",
   "navbar.changeLanguage": "Nyelv váltása",
   "navbar.language": "Nyelv"
