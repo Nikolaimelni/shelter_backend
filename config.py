@@ -1,2 +1,2 @@
 class Config:
-    GOOGLE_MAPS_KEY = 'AIzaSyBXolJnjBknlWz0Ri2WHZsDfeXzxs8gwrk'
+    GOOGLE_MAPS_KEY = 'AIzaSyAZac9TKyeyhvxPPSK2e-_C6IxIYfjBSG8'
